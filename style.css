@@ -9,6 +9,17 @@ h2{
     color: darkolivegreen;
 }
 
+a  { 
+    text-decoration: none;
+    color: black;
+    font-style: normal;
+}
+
+.header button{
+    border-radius: 50%;
+}
+
+
 button{
 
   align-items: center;
